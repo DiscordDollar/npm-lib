@@ -1,0 +1,22 @@
+{
+  "name": "discorddollar",
+  "version": "1.0.0-dev",
+  "description": "A management tool for Discord Dollars",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscordDollar/npm-lib.git"
+  },
+  "keywords": [
+    "DiscordDollar"
+  ],
+  "author": "Roy Lupo aka MrSheldon <mrsheldon@luki.xyz> (https://mrsheldon.me)",
+  "license": "GNU-3.0",
+  "bugs": {
+    "url": "https://github.com/DiscordDollar/npm-lib/issues"
+  },
+  "homepage": "https://github.com/DiscordDollar/npm-lib#readme",
+  "dependencies": {
+    "snekfetch": "^4.0.4"
+  }
+}
